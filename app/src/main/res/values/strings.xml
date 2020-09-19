@@ -14,4 +14,5 @@
     <string name="field_name_device_mac">Device MAC</string>
     <string name="field_name_vendor_name">Vendor Name</string>
     <string name="title_open_ports">Open Ports:</string>
+    <string name="error_network_not_found">Network not found</string>
 </resources>
